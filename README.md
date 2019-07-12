@@ -11,6 +11,12 @@ This is an extremely secure memo app. This app uses AES-256 encryption to secure
 
 **Clone and import in Android Studio to mess around.**
 
-Screenshots and Google Play link coming very soon...
+Screenshots:
+
+Coming soon...
+
+Secure Memos for Android:
+
+![GooglePlayLink](https://user-images.githubusercontent.com/29485313/61143430-d5a4d800-a4ef-11e9-95f4-46cf6ac292d5.jpg)
 
 **The Github community can contribute freely as all the apps under this pledge will be open-source.**
