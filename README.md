@@ -13,7 +13,7 @@ This is an extremely secure memo app. This app uses AES-256 encryption to secure
 
 Screenshots:
 
-Coming soon...
+![Screenshots](https://user-images.githubusercontent.com/29485313/61144580-db4fed00-a4f2-11e9-822d-6c0ff2c35bdf.png)
 
 Secure Memos for Android:
 
