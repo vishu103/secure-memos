@@ -17,6 +17,6 @@ Coming soon...
 
 Secure Memos for Android:
 
-![GooglePlayLink](https://user-images.githubusercontent.com/29485313/61143430-d5a4d800-a4ef-11e9-95f4-46cf6ac292d5.jpg)
+![GooglePlayLink](https://user-images.githubusercontent.com/29485313/61143889-12bd9a00-a4f1-11e9-90ce-73d190532653.jpg)
 
 **The Github community can contribute freely as all the apps under this pledge will be open-source.**
