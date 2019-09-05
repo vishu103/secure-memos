@@ -15,7 +15,7 @@ Screenshots:
 
 ![Screenshots](https://user-images.githubusercontent.com/29485313/61144580-db4fed00-a4f2-11e9-822d-6c0ff2c35bdf.png)
 
-Secure Memos for Android: [Download apk file here](https://drive.google.com/file/d/1JQmiYPdMv2gpuALZ8PG7qz5itZv6QlIL)
+Secure Memos for Android:
 
 [![GooglePlayLink](https://user-images.githubusercontent.com/29485313/61143889-12bd9a00-a4f1-11e9-90ce-73d190532653.jpg)](https://play.google.com/store/apps/details?id=in.edureal.securememos)
 
